@@ -1,0 +1,22 @@
+{
+  "unichat.no_permission": "§cУ вас нет прав (%s)!",
+  "unichat.spy.enabled": "§eСлежка за локальным чатом §aВКЛЮЧЕНА§e.",
+  "unichat.spy.disabled": "§eСлежка за локальным чатом §cВЫКЛЮЧЕНА§e.",
+  "unichat.mute.success": "§aИгрок %s замучен %s. Причина: %s",
+  "unichat.mute.received": "§cВы получили мут %s. Причина: %s",
+  "unichat.unmute.success": "§aИгрок %s размучен.",
+  "unichat.unmute.received": "§aС вас снят мут!",
+  "unichat.chat.muted": "§cВы замучены! Ост. время: %s. Причина: %s",
+  "unichat.chat.click_to_msg": "Нажмите, чтобы написать %s",
+  "unichat.time.forever": "навсегда",
+  "unichat.time.expired": "истек",
+  "unichat.time.remaining": "%s мин. %s сек.",
+  "unichat.time.minutes": "%s мин.",
+  "unichat.stream.hover": "§aНажмите, чтобы открыть стрим на Twitch",
+  "unichat.vanish.enabled": "&aВы теперь невидимы",
+  "unichat.vanish.disabled": "&eВы больше не невидимы",
+  "unichat.vanish.enabled_other": "&a%1$s теперь невидим",
+  "unichat.vanish.disabled_other": "&e%1$s больше не невидим",
+  "unichat.vanish.notify": "&8[&7Vanish&8] &f%1$s &7исчез",
+  "unichat.unvanish.notify": "&8[&7Vanish&8] &f%1$s &7появился"
+}

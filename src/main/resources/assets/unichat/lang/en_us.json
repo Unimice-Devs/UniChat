@@ -1,0 +1,22 @@
+{
+  "unichat.no_permission": "§cYou don't have permission (%s)!",
+  "unichat.spy.enabled": "§eLocal chat spy §aENABLED§e.",
+  "unichat.spy.disabled": "§eLocal chat spy §cDISABLED§e.",
+  "unichat.mute.success": "§aPlayer %s muted %s. Reason: %s",
+  "unichat.mute.received": "§cYou have been muted %s. Reason: %s",
+  "unichat.unmute.success": "§aPlayer %s has been unmuted.",
+  "unichat.unmute.received": "§aYou have been unmuted!",
+  "unichat.chat.muted": "§cYou are muted! Remaining: %s. Reason: %s",
+  "unichat.chat.click_to_msg": "Click to message %s",
+  "unichat.time.forever": "forever",
+  "unichat.time.expired": "expired",
+  "unichat.time.remaining": "%s min. %s sec.",
+  "unichat.time.minutes": "%s min.",
+  "unichat.stream.hover": "§aClick to open the stream on Twitch",
+  "unichat.vanish.enabled": "&aYou are now vanished",
+  "unichat.vanish.disabled": "&eYou are no longer vanished",
+  "unichat.vanish.enabled_other": "&a%1$s is now vanished",
+  "unichat.vanish.disabled_other": "&e%1$s is no longer vanished",
+  "unichat.vanish.notify": "&8[&7Vanish&8] &f%1$s &7vanished",
+  "unichat.unvanish.notify": "&8[&7Vanish&8] &f%1$s &7unvanished"
+}
